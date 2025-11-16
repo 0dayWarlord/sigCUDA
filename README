@@ -1,0 +1,3 @@
+a CUDA-accelerated byte pattern matching library for high-performance signature scanning written in Julia
+
+shoutout NVIDIA
